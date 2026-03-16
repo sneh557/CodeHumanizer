@@ -1,0 +1,5 @@
+{
+  "name": "Code Humanizer",
+  "description": "A premium web application to convert AI-generated code into more human-like code, improving structure, formatting, variable naming, and coding style.",
+  "requestFramePermissions": []
+}
